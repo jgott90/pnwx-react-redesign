@@ -5,7 +5,7 @@ function Header() {
     <header className="site-header" role="banner">
       <div className="header-content">
         <div className="logo-brand">
-          <span className="brand-name">PacificNorthwest X-Ray Inc.</span>
+          <span className="brand-name">Pacific Northwest X-Ray Inc.</span>
         </div>
         <nav className="nav" aria-label="Main navigation">
           <ul>
